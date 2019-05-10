@@ -37,7 +37,9 @@ repo init -u git://github.com/DotOS/manifest.git -b dot-p --depth=1
 ```
 
 #设置编译机型的 device tree、kernel 和私有文件
+```makefile
 把dot_dipper.xml添加到xxx/.repo/local_manifests即可（这是隐藏目录）
+```
 
 #使用repo同步源码
 ```makefile
