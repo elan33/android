@@ -15,7 +15,7 @@ git config --global user.name "Your Name"
 ```makefile
 https://help.github.com/articles/connecting-to-github-with-ssh/
 （如果您不将 ssh 添加到 github 的话，您可能会遭遇下载受限，从而导致接下来的同步源码失败。）
-```makefile
+```
 
 #下载魔趣版的repo（比较好用）
 ```makefile
