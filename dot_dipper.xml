@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="bamice/packages_apps_GoogleCameraMod" path="packages/apps/GoogleCameraMod" remote="github" revision="master" />
-  <project name="bamice/device_xiaomi_dipper" path="device/xiaomi/dipper" remote="github" revision="dot-p" />
-  <project name="bamice/device_xiaomi_sdm845-common" path="device/xiaomi/sdm845-common" remote="github" revision="dot-p" />
-  <project name="bamice/kernel_xiaomi_dipper" path="kernel/xiaomi/dipper" remote="github" revision="Pepper-pie" />
+  <project name="bamice/android_device_xiaomi_dipper" path="device/xiaomi/dipper" remote="github" revision="dot-p" />
+  <project name="bamice/android_device_xiaomi_sdm845-common" path="device/xiaomi/sdm845-common" remote="github" revision="dot-p" />
+  <project name="LineageOS/android_kernel_xiaomi_sdm845" path="kernel/xiaomi/sdm845" remote="github" revision="lineage-16.0" />
   <project name="bamice/vendor_xiaomi_sdm845-common" path="vendor/xiaomi/sdm845-common" remote="github" revision="master" />
   <project name="bamice/vendor_coolapk" path="vendor/coolapk" remote="github" revision="master" />
 </manifest>
