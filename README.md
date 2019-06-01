@@ -45,6 +45,10 @@ repo init -u git://github.com/DotOS/manifest.git -b dot-p --depth=1
 ```makefile
 repo sync -c -j8 --force-sync --no-clone-bundle --no-tags  （-j8表示使用8个线程）
 ```
+#删除会惹来麻烦的dependencies
+```makefile
+sudo rm -rf device/xiaomi/sdm845-common/lineage.dependencies
+```
 
 #设置 ccache 提高编译效率（可选）
 在源码路径使用:
