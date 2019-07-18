@@ -3,6 +3,5 @@
   <project name="bamice/android_device_xiaomi_dipper" path="device/xiaomi/dipper" remote="github" revision="dot-p" />
   <project name="bamice/android_device_xiaomi_sdm845-common" path="device/xiaomi/sdm845-common" remote="github" revision="dot-p" />
   <project name="lineageos/android_kernel_xiaomi_sdm845" path="kernel/xiaomi/dipper" remote="github" revision="lineage-16.0" />
-  <project name="lineageos/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
   <project name="bamice/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="lineage-16.0" />
 </manifest>
